@@ -1,5 +1,5 @@
 ## Converso para extensão .mp4
-O objetivo desse software é receber um vídeo com a extensão .mkv por meio de uma interface gráfica e converter ele para um extensão .mp4<br>
+O objetivo desse software é receber um vídeo com a extensão .mkv por meio de uma interface gráfica e converter ele para um extensão .mp4 sem alterar o nome do arquivo<br>
 A versão utilizada para desenvolvimento foi Python 3.9.4
 ## Bibliotecas
 As bibliotecas utilizadas foram o <b> os </b> nativo do Python , <b>PySimpleGui</b>  e o <b>moviepy</b>
