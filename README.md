@@ -9,5 +9,5 @@ A instalação das bibliotecas se dá através dos seguintes comandos no cmd:
 
     pip install moviepy
     pip install PySimpleGui
-## Ferramentas
+## Ferramenta
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
